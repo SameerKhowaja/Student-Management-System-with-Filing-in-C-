@@ -1,0 +1,22 @@
+Registration Time: Wed May 02 18:37:14 2018
+
+Student Name: Sameer
+Father Name: Saleem
+Surname: Khowaja
+Class: 9
+Gender(m/f): m
+Date of Birth: 28/5/2000
+Country: Pak
+City: khi
+Phone No# 33
+E-mail: sam@g.com
+
+Course Added: 3
+Course 1: ITC
+Course 2: BE
+Course 3: ENG
+
+Courses Passed are: 3
+Course 1
+Course 2
+Course 3

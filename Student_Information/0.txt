@@ -1,0 +1,3 @@
+-------WELCOME TO STUDENT RECORDS-------
+
+Total Students added are: 3

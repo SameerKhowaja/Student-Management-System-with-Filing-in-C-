@@ -1,0 +1,12 @@
+Registration Time: Wed May 02 18:41:21 2018
+
+Student Name: abc
+Father Name: bcd
+Surname: ccc
+Class: 6
+Gender(m/f): f
+Date of Birth: 22/2/2000
+Country: pak
+City: isl
+Phone No# 888
+E-mail: das@asd.com

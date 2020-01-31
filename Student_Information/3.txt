@@ -1,0 +1,40 @@
+Registration Time: Wed May 02 18:38:45 2018
+
+Student Name: Mustafa
+Father Name: Arif
+Surname: Shaikh
+Class: 6
+Gender(m/f): m
+Date of Birth: 31/1/2000
+Country: Pak
+City: Khi
+Phone No# 222
+E-mail: asd@das.ccom
+
+Course Added: 2
+Course 1: ITC
+Course 2: CP
+
+Courses Passed are: 0
+
+---------------------------------
+Updating Time: Wed May 02 18:43:41 2018
+
+Student Name: Mustafa2
+Father Name: Arif2
+Surname: Shaikh2
+Class: 6
+Gender(m/f): m
+Date of Birth: 28/2/2000
+Country: pak
+City: khio
+Phone No# 666
+E-mail: asd.com
+
+Course Added: 2
+Course 1: ITC
+Course 2: cp
+
+Courses Passed are: 2
+Course 1
+Course 2
